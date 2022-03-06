@@ -1,14 +1,14 @@
 # miniRover Project 
 **The Project is in progress. It is not finished yet!**
-## Development of a mini rover with sensors using Arduino IDE. Live Plots displayed at the website.
+### Development of a mini rover with sensors using Arduino IDE. Live Plots displayed at the website.
 
 * PCB design with Altium Designer
 * Data processing with Python
 * Website coded with HTML/CSS/JAVASCRIPT 
 
-## Details
-The project consists of the **mini rover** and its **base**.
---> Elements of the **Base**:
+### Details
+The project consists of the **mini rover** and its **base**.\
+--> Elements of the **Base**:\
 -Printed Circuit Board
 -Arduino Nano
 -IR Emitter 
