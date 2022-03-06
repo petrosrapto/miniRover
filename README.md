@@ -21,7 +21,7 @@ The project consists of the **mini rover** and its **base**.\
 -RGB Led\
 -Touch Detector\
 -Button\
--Joystick\
+-Joystick
 
 ![IMG_20220306_135413](https://user-images.githubusercontent.com/53604815/156925748-af3aefec-cdf1-4565-9be2-592545910ac3.jpg)
 
@@ -47,6 +47,6 @@ The project consists of the **mini rover** and its **base**.\
 -RGB SMD\
 -Photoresistor\
 -Line Tracker\
--2xDistance Sensors\
+-2xDistance Sensors
 
 ![IMG_20220306_135556_1](https://user-images.githubusercontent.com/53604815/156925755-f570fc79-ed22-4e55-b427-f2b66c3b0a38.jpg)
