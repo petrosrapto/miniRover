@@ -8,6 +8,7 @@
 
 ### Details
 The project consists of the **mini rover** and its **base**.  
+
 ------------------------------------------------------------
 Elements of the **Base**:
 - Printed Circuit Board
