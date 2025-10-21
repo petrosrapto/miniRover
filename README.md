@@ -1,10 +1,19 @@
 # miniRover Project 
 **The Project is in progress. It is not finished yet!**
-### Development of a mini rover with sensors using Arduino IDE. Live Plots displayed at the website. (https://petrosrapto.github.io/)
+### Development of a mini rover with sensors using Arduino IDE. Live Plots displayed at the website. (https://petrosrapto.github.io/miniRover/)
 
 * PCB design with Altium Designer
 * Data processing with Python
-* Website coded with HTML/CSS/JAVASCRIPT (Website's Repository: https://github.com/petrosrapto/petrosrapto.github.io)
+* Website coded with HTML/CSS/JAVASCRIPT (Located in `/website` directory of this repository)
+
+## Website
+
+The project website is located in the `website/` directory and is automatically deployed to GitHub Pages at https://petrosrapto.github.io/miniRover/
+
+The website includes:
+- Live data visualization and plots
+- Project documentation and images
+- Interactive demonstrations of rover capabilities
 
 ### Details
 The project consists of the **mini rover** and its **base**.  
